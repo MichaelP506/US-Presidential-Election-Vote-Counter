@@ -1,0 +1,49 @@
+.repVote {
+background-color: red;
+    color: white;
+}
+
+.demVote {
+background-color: blue;
+    color: white;
+}
+
+.Banner {
+background-image: url(https://media.istockphoto.com/photos/fluttering-silk-flag-of-united-states-of-america-old-glory-in-the-picture-id1133809617?k=6&m=1133809617&s=612x612&w=0&h=u-Db-1I6QA5Es5fCBIZJu_xDnu2fa6qwTLQEZiBxbo0=);
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: orange;
+}
+
+.biden {
+width: auto;
+    height: auto;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.trump {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    height: auto;
+}
+
+.keepVoting {
+color: purple;
+    text-align: center;
+}
+
+.bidenPresident {
+text-align: center;
+    color: blue;
+}
+
+.trumpPresident {
+text-align: center;
+    color: red;
+}
