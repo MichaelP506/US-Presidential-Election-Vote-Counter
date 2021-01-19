@@ -1,1 +1,0 @@
-# US-Presidential-Election-Vote-Counter
